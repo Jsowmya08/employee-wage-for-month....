@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\obj\Debug\netcoreapp3.1\wages for month.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\obj\Debug\netcoreapp3.1\wages for month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\obj\Debug\netcoreapp3.1\wages for month.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\obj\Debug\netcoreapp3.1\wages for month.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\obj\Debug\netcoreapp3.1\wages for month.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\bin\Debug\netcoreapp3.1\wages for month.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\bin\Debug\netcoreapp3.1\wages for month.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\bin\Debug\netcoreapp3.1\wages for month.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\bin\Debug\netcoreapp3.1\wages for month.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\bin\Debug\netcoreapp3.1\wages for month.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\bin\Debug\netcoreapp3.1\wages for month.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\obj\Debug\netcoreapp3.1\wages for month.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\obj\Debug\netcoreapp3.1\wages for month.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\wages for month\obj\Debug\netcoreapp3.1\wages for month.genruntimeconfig.cache
